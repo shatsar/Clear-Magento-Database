@@ -1,0 +1,7 @@
+Queries to clear Magento tables filled with data during the development phase.
+Tables cleared:
+- sales_order
+- tag
+- catalogsearch
+- logs
+- reports
